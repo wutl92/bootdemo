@@ -46,4 +46,14 @@ public class BeanTestController {
         System.out.println(bean1);
         return map;
     }
+
+    @RequestMapping("/test02")
+    @ResponseBody
+    public Map<String, Object> test02() {
+        Map<String, Object> map = new HashMap<>();
+        AutoMth bean = applicationContext.getBean(AutoMth.class);
+        bean.sout();
+        System.out.println(bean);
+        return map;
+    }
 }
