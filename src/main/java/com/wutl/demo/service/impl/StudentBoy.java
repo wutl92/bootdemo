@@ -16,4 +16,9 @@ public class StudentBoy implements Student {
     public void work() {
         System.out.println("studentBoy...");
     }
+
+    @Override
+    public String speeck() {
+        return "studentBoy speeck";
+    }
 }

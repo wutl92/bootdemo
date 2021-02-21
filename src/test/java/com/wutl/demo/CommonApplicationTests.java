@@ -1,6 +1,7 @@
 package com.wutl.demo;
 
 import com.wutl.demo.entity.TeacherWoman;
+import com.wutl.demo.service.Student;
 import com.wutl.demo.test.AutoMth;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,8 +21,8 @@ class CommonApplicationTests {
 	void contextLoads() {
 		AutoMth bean = applicationContext.getBean(AutoMth.class);
 		bean.sout();
-		TeacherWoman woman = applicationContext.getBean(TeacherWoman.class);
-		System.out.println(woman);
+		Student studentBoy = applicationContext.getBean("studentBoy", Student.class);
+		studentBoy.speeck();
 	}
 
 }

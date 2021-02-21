@@ -10,4 +10,6 @@ package com.wutl.demo.service;
 public interface Student {
 
     void work();
+
+    String speeck();
 }
