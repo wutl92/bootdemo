@@ -1,0 +1,168 @@
+16:38:28.890 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 5956 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+16:38:28.939 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+16:38:30.613 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+16:38:30.625 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+16:38:30.626 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:38:30.627 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:38:30.752 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:38:30.752 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1703 ms
+16:38:31.050 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:38:31.331 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:38:31.905 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:38:31.925 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:38:31.926 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:38:31.927 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:38:31.938 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+16:38:32.248 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+16:38:32.279 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+16:38:32.291 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 4.015 seconds (JVM running for 5.52)
+16:42:52.586 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 13352 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+16:42:52.590 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+16:42:53.876 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+16:42:53.885 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+16:42:53.887 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:42:53.887 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:42:53.999 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:42:54.000 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1352 ms
+16:42:54.097 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:42:54.125 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+16:46:40.288 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 16952 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+16:46:40.294 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+16:46:41.612 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+16:46:41.622 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+16:46:41.623 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:46:41.623 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:46:41.756 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:46:41.757 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1405 ms
+16:46:41.838 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:46:41.861 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+16:47:18.829 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 18056 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+16:47:18.832 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+16:47:20.455 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+16:47:20.465 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+16:47:20.466 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:47:20.466 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:47:20.577 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:47:20.578 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1687 ms
+16:47:20.867 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:47:21.126 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:47:21.684 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:47:21.705 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:47:21.706 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:47:21.708 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:47:21.720 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+16:47:21.986 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+16:47:22.013 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+16:47:22.024 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 3.702 seconds (JVM running for 5.927)
+16:48:03.181 [http-nio-9191-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:48:03.182 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:48:03.183 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 1 ms
+16:51:19.866 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 19200 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+16:51:19.870 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+16:51:21.195 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+16:51:21.206 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+16:51:21.207 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:51:21.207 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:51:21.327 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:51:21.327 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1407 ms
+16:51:25.522 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:51:25.773 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:51:26.345 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+16:51:26.363 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:51:26.364 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:51:26.364 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:51:26.372 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+16:51:26.640 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+16:51:26.668 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+16:51:26.678 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 7.327 seconds (JVM running for 9.236)
+16:51:38.253 [http-nio-9191-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:51:38.254 [http-nio-9191-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:51:38.256 [http-nio-9191-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 1 ms
+17:06:28.653 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 16056 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+17:06:28.657 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+17:06:29.999 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+17:06:30.011 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+17:06:30.012 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:06:30.012 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+17:06:30.134 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:06:30.134 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1423 ms
+17:06:30.410 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+17:06:30.650 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:06:31.194 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:06:31.222 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:06:31.223 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:06:31.225 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:06:31.233 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+17:06:31.500 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+17:06:31.522 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+17:06:31.532 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 3.331 seconds (JVM running for 5.17)
+17:06:34.714 [http-nio-9191-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:06:34.715 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+17:06:34.716 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 1 ms
+17:15:53.614 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 11464 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+17:15:53.620 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+17:15:54.889 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+17:15:54.899 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+17:15:54.900 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:15:54.901 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+17:15:55.015 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:15:55.015 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1342 ms
+17:15:55.297 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+17:15:55.542 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:15:56.093 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:15:56.110 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:15:56.111 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:15:56.111 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:15:56.118 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+17:15:56.389 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+17:15:56.420 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+17:15:56.431 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 3.237 seconds (JVM running for 4.989)
+17:16:01.101 [http-nio-9191-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:16:01.102 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+17:16:01.103 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 1 ms
+17:19:04.698 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 8352 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+17:19:04.702 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+17:19:06.001 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+17:19:06.012 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+17:19:06.013 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:19:06.014 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+17:19:06.133 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:19:06.133 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1377 ms
+17:19:09.658 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+17:19:09.929 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:19:10.458 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:19:10.479 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:19:10.480 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:19:10.480 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:19:10.488 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+17:19:10.800 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+17:19:10.822 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+17:19:10.832 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 6.618 seconds (JVM running for 8.312)
+17:19:13.536 [http-nio-9191-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:19:13.537 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+17:19:13.539 [http-nio-9191-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+17:19:40.849 [main] INFO  c.w.d.CommonApplication - [logStarting,55] - Starting CommonApplication using Java 1.8.0_66 on DESKTOP-9Q3APVJ with PID 16760 (E:\我的文档\myproject\common\out\production\mycommon started by htk in E:\我的文档\myproject\common)
+17:19:40.854 [main] INFO  c.w.d.CommonApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+17:19:42.136 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9191 (http)
+17:19:42.145 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9191"]
+17:19:42.147 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:19:42.147 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+17:19:42.258 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:19:42.259 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,289] - Root WebApplicationContext: initialization completed in 1350 ms
+17:19:42.542 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+17:19:42.785 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+17:19:43.315 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+17:19:43.331 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:19:43.332 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:19:43.332 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeStaticCache,60] - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:19:43.339 [main] INFO  t.m.m.a.MapperCacheDisabler - [removeEntityHelperCache,83] - Clear EntityHelper entityTableMap cache.
+17:19:43.602 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9191"]
+17:19:43.629 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9191 (http) with context path ''
+17:19:43.641 [main] INFO  c.w.d.CommonApplication - [logStarted,61] - Started CommonApplication in 3.221 seconds (JVM running for 5.069)
+17:19:47.199 [http-nio-9191-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:19:47.199 [http-nio-9191-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+17:19:47.201 [http-nio-9191-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
