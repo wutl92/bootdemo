@@ -1,5 +1,8 @@
 package com.wutl.demo.sjms.gczms;
 
+import javax.swing.*;
+import java.util.Observer;
+
 /**
  * @author wutl
  * @Title:
@@ -11,7 +14,6 @@ public class WeatherStation {
 
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
-
         CurrentConditionsDisplay currentDisplay =
                 new CurrentConditionsDisplay(weatherData);
         /*StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
