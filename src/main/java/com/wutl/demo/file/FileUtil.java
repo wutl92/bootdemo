@@ -20,6 +20,12 @@ public class FileUtil {
 
     public static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
+    /**
+     * 复制文件
+     * @param source
+     * @param dest
+     * @throws IOException
+     */
     private static void copyFileUsingFileStreams(File source, File dest)
             throws IOException {
         InputStream input = null;
@@ -38,6 +44,12 @@ public class FileUtil {
         }
     }
 
+    /**
+     * 复制文件
+     * @param source
+     * @param dest
+     * @throws IOException
+     */
     public static void copyFileUsingFileStreams(String source, String dest)
             throws IOException {
         InputStream input = null;
@@ -55,6 +67,24 @@ public class FileUtil {
             input.close();
             output.close();
         }
+    }
+
+    /**
+     * 获取文件名称
+     * @param filePath
+     * @return
+     */
+    public static String getFileName(String filePath){
+        return null;
+    }
+
+    /**
+     * 获取文件名称
+     * @param file
+     * @return
+     */
+    public static String getFileName(File file){
+        return null;
     }
 
     /**

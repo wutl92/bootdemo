@@ -1,6 +1,5 @@
 package com.wutl.demo;
 
-import com.wutl.demo.entity.TeacherWoman;
 import com.wutl.demo.service.Student;
 import com.wutl.demo.test.AutoMth;
 import org.junit.jupiter.api.Test;

@@ -128,8 +128,6 @@ public class SvnUtil {
     }
 
     public static void main(String[] args) throws Exception {
-//        downSvn();
-        filterCommitHistory();
-//        ISVNDebugLog debugLog = ourClientManager.getDebugLog();
+        System.out.println("");
     }
 }

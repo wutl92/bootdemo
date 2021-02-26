@@ -3,6 +3,9 @@ package com.wutl.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author htk
+ */
 @SpringBootApplication
 public class CommonApplication {
 
