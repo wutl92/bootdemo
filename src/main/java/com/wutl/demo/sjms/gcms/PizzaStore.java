@@ -11,10 +11,11 @@ public abstract class PizzaStore {
 
     /**
      * 创建披萨
-     *
-     * @param type 披萨风格
-     * @return
-     */
+     * @Author: wutl
+     * @Date: 2021-3-4 16:52
+     * @param type: asd
+     * @return: com.wutl.demo.sjms.gcms.Pizza
+     **/
     public abstract Pizza createPizza(String type);
 
     /**

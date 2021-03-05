@@ -9,13 +9,19 @@ package com.wutl.demo.sjms.gcms;
  */
 public class LilingPizzaStore extends PizzaStore {
     /**
-     * 创建披萨
-     *
-     * @param type 披萨风格
-     * @return
-     */
+     * @Description:
+     * @Author: wutl
+     * @Date: 2021-3-4 16:52
+     * @param type: asd
+     * @return: com.wutl.demo.sjms.gcms.Pizza
+     **/
     @Override
     public Pizza createPizza(String type) {
-        return null;
+
+        Pizza pizza = null;
+        if ("pukou".equals(type)) {
+            pizza = new PukouPizza();
+        }
+        return pizza;
     }
 }
